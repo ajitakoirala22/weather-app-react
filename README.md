@@ -30,7 +30,6 @@ Mausam is a React weather app built with Create React App.
 ## Run Locally
 
 ```bash
-cd /Users/vishalshivakumarkanakamamidi/Desktop/ajproj/weather-app
 npm install
 npm start
 ```
